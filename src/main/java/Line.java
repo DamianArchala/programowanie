@@ -9,6 +9,7 @@ public class Line {
             for(int j = 0; j<i; j++){
                 if(j+1==i){
                     System.out.print("*");
+                    System.out.println("");
                 }
                 else{
                     System.out.print(" ");
